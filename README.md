@@ -29,7 +29,7 @@ Set the following parameters in "Script" file (vbs).
 - LocalDirectory="***Local Directory Path***"  
 - GetFileName="***Filename to be acquired***"  
 
-## How to install
+## How to Install
 Copy "Script" file (vbs) to inside appropriate directory.  
 
 ## How to Execute Script
