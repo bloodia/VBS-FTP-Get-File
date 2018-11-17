@@ -20,7 +20,7 @@ usage: vbs-ftp-get-file.vbs
 for example: vbs-ftp-get-file.vbs
 ```
 
-## Install Script
+## How to install
 Copy "Script" file (vbs) to inside appropriate directory.  
 
 ## Setting Parameters
