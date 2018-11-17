@@ -1,4 +1,7 @@
 # VBS-FTP-Get-File
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/VBS-FTP-Get-File/blob/master/LICENSE)
+
+## Overview
 This VBScript file is that runs on Windows OS and acquires a single file via FTP.  
 
 ## Sample
