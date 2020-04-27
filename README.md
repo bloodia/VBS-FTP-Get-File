@@ -5,7 +5,7 @@
 This VBScript file is that runs on Windows OS and acquires a single file via FTP.  
 
 ## Sample
-![Sample](https://www.bloodia.net/files/github/vbs-ftp-get-file.jpg)
+![Sample](https://www.bloodia.net/wp-content/uploads/github/vbs-ftp-get-file.jpg)
 
 ## Requires
 ### OS
